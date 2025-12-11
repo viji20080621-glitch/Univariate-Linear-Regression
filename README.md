@@ -42,10 +42,11 @@ plt.show()
 
 ```
 ## Output
-</br>
-</br>
-</br>
-</br>
+<img width="1046" height="132" alt="Screenshot 2025-12-11 192209" src="https://github.com/user-attachments/assets/c729311a-2371-439e-bce1-f804c06684a1" />
+<img width="539" height="374" alt="Screenshot 2025-12-11 192229" src="https://github.com/user-attachments/assets/b0aab97f-7da5-4251-854e-335a83fc005c" />
+<img width="1046" height="355" alt="Screenshot 2025-12-11 192249" src="https://github.com/user-attachments/assets/3142126d-c643-4e64-9b52-217d2e60a6af" />
+<img width="1062" height="91" alt="Screenshot 2025-12-11 192304" src="https://github.com/user-attachments/assets/fd49ca56-33d5-4b08-91ff-b2ea2fe074b8" />
+<img width="575" height="404" alt="Screenshot 2025-12-11 192319" src="https://github.com/user-attachments/assets/3dfe7346-39ff-4e9c-a031-db7cbec41a68" />
 
 ## Result
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares.
